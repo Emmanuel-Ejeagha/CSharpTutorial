@@ -1,0 +1,15 @@
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/bin/Debug/net9.0/nullCoalescing
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/bin/Debug/net9.0/nullCoalescing.deps.json
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/bin/Debug/net9.0/nullCoalescing.runtimeconfig.json
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/bin/Debug/net9.0/nullCoalescing.dll
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/bin/Debug/net9.0/nullCoalescing.pdb
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/nullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/nullCoalescing.AssemblyInfoInputs.cache
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/nullCoalescing.AssemblyInfo.cs
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/nullCoalescing.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/nullCoalescing.sourcelink.json
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/nullCoalescing.dll
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/refint/nullCoalescing.dll
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/nullCoalescing.pdb
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/nullCoalescing.genruntimeconfig.cache
+/home/emma/Desktop/CSharpTutorial/nullCoalescing/obj/Debug/net9.0/ref/nullCoalescing.dll
