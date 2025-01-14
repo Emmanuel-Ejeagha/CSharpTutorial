@@ -1,0 +1,15 @@
+/home/emma/Desktop/CSharpTutorial/ParameterArray/bin/Debug/net9.0/ParameterArray
+/home/emma/Desktop/CSharpTutorial/ParameterArray/bin/Debug/net9.0/ParameterArray.deps.json
+/home/emma/Desktop/CSharpTutorial/ParameterArray/bin/Debug/net9.0/ParameterArray.runtimeconfig.json
+/home/emma/Desktop/CSharpTutorial/ParameterArray/bin/Debug/net9.0/ParameterArray.dll
+/home/emma/Desktop/CSharpTutorial/ParameterArray/bin/Debug/net9.0/ParameterArray.pdb
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ParameterArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ParameterArray.AssemblyInfoInputs.cache
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ParameterArray.AssemblyInfo.cs
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ParameterArray.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ParameterArray.sourcelink.json
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ParameterArray.dll
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/refint/ParameterArray.dll
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ParameterArray.pdb
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ParameterArray.genruntimeconfig.cache
+/home/emma/Desktop/CSharpTutorial/ParameterArray/obj/Debug/net9.0/ref/ParameterArray.dll
