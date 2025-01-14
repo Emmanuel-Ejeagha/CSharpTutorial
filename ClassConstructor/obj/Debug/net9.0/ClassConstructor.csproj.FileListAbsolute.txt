@@ -1,0 +1,15 @@
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ClassConstructor.AssemblyInfoInputs.cache
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ClassConstructor.AssemblyInfo.cs
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ClassConstructor.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ClassConstructor.sourcelink.json
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/bin/Debug/net9.0/ClassConstructor
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/bin/Debug/net9.0/ClassConstructor.deps.json
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/bin/Debug/net9.0/ClassConstructor.runtimeconfig.json
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/bin/Debug/net9.0/ClassConstructor.dll
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/bin/Debug/net9.0/ClassConstructor.pdb
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ClassConstructor.dll
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/refint/ClassConstructor.dll
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ClassConstructor.pdb
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ClassConstructor.genruntimeconfig.cache
+/home/emma/Desktop/CSharpTutorial/ClassConstructor/obj/Debug/net9.0/ref/ClassConstructor.dll
